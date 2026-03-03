@@ -1,15 +1,15 @@
 class TV{
-  string Marca;
-  string Modelo;
-  int Canal;
-  
+  int polegadas;
+  int volume;
+  sting modelo;
+  int voltagem;
+  int canal;
+
   void ligar(){
-    //ligar televisão
   }
   void desligar(){
-    //desligar televisão
+  }
+  void mudar_volume(){
   }
   void mudar_canal(){
-    //mudar o canal
   }
-}
